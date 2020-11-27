@@ -1,1 +1,1 @@
-console.log("hello");
+console.log("hello, sadik welcome to jenkins demo job");
